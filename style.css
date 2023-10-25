@@ -1,0 +1,47 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Lucida Console', monospace;
+	font-size: 16px;
+	color: #222;
+	background-color: #f3ecf4;
+	text-align: center;
+	line-height: 1.4em;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+hr {
+	margin: 25px;
+}
+
+.footer {
+	margin-top: 40px;
+}
+
+code {
+  font-family: monospace;
+  padding: 5px;
+  color: black;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+a {
+	color: #691b9d;
+}
